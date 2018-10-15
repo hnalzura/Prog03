@@ -12,8 +12,6 @@ table {
   width: 100%; 
   border-collapse: collapse; 
   border: 1px solid black;
-  padding-bottom: 50px;
-  padding-top: 50px;
 }
 
 p {
